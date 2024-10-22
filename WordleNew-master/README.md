@@ -1,6 +1,6 @@
 # Android Project 1 - *Wordle*
 
-Submitted by: **Jerry Rogers**
+Submitted by: **Joshua Washington**
 
 **WordleProject** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
